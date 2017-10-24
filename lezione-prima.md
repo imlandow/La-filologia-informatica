@@ -18,7 +18,13 @@ scripta volant.
 tutte le volte che ogni singolo punto viene spostato in un periodo è fondamentale che venga registrata la variazione.
 e quanto più la variazione è minima, dalla battuta di un carattere, all'inserimento di uno spazio, tanto più precisa sarà la ricerca
 ~e gli strumenti dell'informatica sono estremamente precisi.
-se di tutte le opere degli antichi avessimo regiatrate le opere stesse o almeno accertate varianti, il filologo si crogiolerebbe.
+se di tutte le opere degli antichi avessimo registrate le opere stesse o almeno accertate varianti, il filologo si crogiolerebbe.
 lo scopo, e il tentativo dei futuri filologi, è quello di tracciare la storia delle modifiche ai testi, volute o forzate, per fare chiarezza, svelare verità.
 partendo dalla brutta, arrivando all'edizione, noi vogliamo sapere il processo di stesura, anzi, di computazione.
 # I
+il principio è fondamentalmente l'istesso:
+e per quella antica
+e per quella moderna
+e anche per quella contemporanea
+sicchè li veda molto connessi.
+e bene mi pare che tutti funzionino.
