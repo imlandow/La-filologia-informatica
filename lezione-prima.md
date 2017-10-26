@@ -17,7 +17,7 @@ già in troppi casi abbiamo perduto le testimonianze della letteratura. ne abbia
 scripta volant.
 tutte le volte che ogni singolo punto viene spostato in un periodo è fondamentale che venga registrata la variazione.
 e quanto più la variazione è minima, dalla battuta di un carattere, all'inserimento di uno spazio, tanto più precisa sarà la ricerca
-~e gli strumenti dell'informatica sono estremamente precisi.
+~e gli strumenti dell'informatica consentono calcoli estremamente precisi.
 se di tutte le opere degli antichi avessimo registrate le opere stesse o almeno accertate varianti, il filologo si crogiolerebbe.
 lo scopo, e il tentativo dei futuri filologi, è quello di tracciare la storia delle modifiche ai testi, volute o forzate, per fare chiarezza, svelare verità.
 partendo dalla brutta, arrivando all'edizione, noi vogliamo sapere il processo di stesura, anzi, di computazione.
@@ -28,3 +28,12 @@ e per quella moderna
 e anche per quella contemporanea
 sicchè li veda molto connessi.
 e bene mi pare che tutti funzionino.
+si può ripercorrere la storia di un testo letterario,
+in parallelo ad un testo programmativo.
+noi ci vediamo i medesimi processi, in fondo:
+la stesura del testo, come logico, intende la creazione di un'idea o la projezione di oggetti o soggetti.
+in sincronia i linguaggi differiscono negli usi a favore di una comune praticità e velocità
+~tuttavia si rivolgono anche ad un minimo di decenza estetica.
+il codice è riempito con i caratteri della semplicità e in ultimo della bellezza.
+# II  
+#### abbreviature, segni diacritici, simboli.
