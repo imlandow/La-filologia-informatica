@@ -37,3 +37,4 @@ in sincronia i linguaggi differiscono negli usi a favore di una comune praticit�
 il codice è riempito con i caratteri della semplicità e in ultimo della bellezza.
 # II  
 #### abbreviature, segni diacritici, simboli.
+voglio illustrare un manoscritto:
